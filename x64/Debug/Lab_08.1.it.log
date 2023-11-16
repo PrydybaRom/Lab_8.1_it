@@ -1,0 +1,3 @@
+﻿  Lab_08.1.it.cpp
+C:\Users\Roman\source\repos\Lab_08.1.it\Lab_08.1.it.cpp(42,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab_08.1.it.vcxproj -> C:\Users\Roman\source\repos\Lab_08.1.it\x64\Debug\Lab_08.1.it.exe
